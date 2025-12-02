@@ -1,9 +1,13 @@
-### IntelliJ IDEA ###
+git### IntelliJ IDEA ###
 out/
 .idea/
 GitTest9.iml
 **/*.log
+<<<<<<< HEAD
 out/
+=======
+git-test9.iml
+>>>>>>> 457a88749c443d346f7c44164bc95638061ba39b
 
 ### Mac OS ###
 .DS_Store
